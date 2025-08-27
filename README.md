@@ -1,2 +1,2 @@
 # understandingGit-demo
-This is Git repository for understanding Git and Github
+This is Git repository for understanding Git and Github - HARSHITK1070
